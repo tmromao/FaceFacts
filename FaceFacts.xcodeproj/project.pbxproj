@@ -60,10 +60,10 @@
 				13BD84F22B4B5FB3002D79BD /* Person.swift */,
 				13BD84E42B4B5A8A002D79BD /* FaceFactsApp.swift */,
 				13BD84E62B4B5A8A002D79BD /* ContentView.swift */,
-				13BD84E82B4B5A8B002D79BD /* Assets.xcassets */,
-				13BD84EA2B4B5A8B002D79BD /* Preview Content */,
 				13BD84F42B4B6316002D79BD /* EditPersonView.swift */,
 				13770A402B5342EC0081489C /* PeopleView.swift */,
+				13BD84E82B4B5A8B002D79BD /* Assets.xcassets */,
+				13BD84EA2B4B5A8B002D79BD /* Preview Content */,
 			);
 			path = FaceFacts;
 			sourceTree = "<group>";
