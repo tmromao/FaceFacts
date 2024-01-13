@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		13770A412B5342EC0081489C /* PeopleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13770A402B5342EC0081489C /* PeopleView.swift */; };
 		13BD84E52B4B5A8A002D79BD /* FaceFactsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13BD84E42B4B5A8A002D79BD /* FaceFactsApp.swift */; };
 		13BD84E72B4B5A8A002D79BD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13BD84E62B4B5A8A002D79BD /* ContentView.swift */; };
 		13BD84E92B4B5A8B002D79BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13BD84E82B4B5A8B002D79BD /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		13770A402B5342EC0081489C /* PeopleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeopleView.swift; sourceTree = "<group>"; };
 		13BD84E12B4B5A8A002D79BD /* FaceFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FaceFacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13BD84E42B4B5A8A002D79BD /* FaceFactsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceFactsApp.swift; sourceTree = "<group>"; };
 		13BD84E62B4B5A8A002D79BD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				13BD84E82B4B5A8B002D79BD /* Assets.xcassets */,
 				13BD84EA2B4B5A8B002D79BD /* Preview Content */,
 				13BD84F42B4B6316002D79BD /* EditPersonView.swift */,
+				13770A402B5342EC0081489C /* PeopleView.swift */,
 			);
 			path = FaceFacts;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				13BD84F32B4B5FB3002D79BD /* Person.swift in Sources */,
+				13770A412B5342EC0081489C /* PeopleView.swift in Sources */,
 				13BD84E72B4B5A8A002D79BD /* ContentView.swift in Sources */,
 				13BD84E52B4B5A8A002D79BD /* FaceFactsApp.swift in Sources */,
 				13BD84F52B4B6316002D79BD /* EditPersonView.swift in Sources */,
